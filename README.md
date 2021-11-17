@@ -18,7 +18,7 @@ tk==0.1.0
 
 <img src="/Samples/movember-promo2.jpeg" alt="Sample1" width="40%" height="40%"/>
 <img src="/Samples/movember-promo4.jpeg" alt="Sample2" width="40%" height="40%"/>
-<img src="/Samples/movember-promo3.jpeg" alt="Sample3" width="40%" height="40%"/>
-<img src="/Samples/movember-promo1.jpeg" alt="Sample4" width="40%" height="40%"/>
+<img src="/Samples/movember_promo3.jpeg" alt="Sample3" width="40%" height="40%"/>
+<img src="/Samples/movember_promo1.jpeg" alt="Sample4" width="40%" height="40%"/>
 <img src="/Samples/movember-promo5.jpeg" alt="Sample1" width="50%" height="50%"/>
   
