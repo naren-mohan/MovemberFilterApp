@@ -1,5 +1,5 @@
 # MovemberFilterApp
-This piece of code was written to raise awareness about men's health issues such as prostate cancer, mental issues etc. (Movember), internally during my previous work at Sony India Software Centre
+This project was implemented to raise awareness about men's health issues such as prostate cancer, mental issues etc. (Movember), internally during my previous work at Sony India Software Centre in a fun way where people could walk in and click pictures with filters of cool moustache and goggles while learning more about the Movember campaign.
 
 ## Requirements
 
@@ -16,5 +16,9 @@ tk==0.1.0
 
 ## Samples
 
-<Add Samples here>
+![Sample1](/Samples/movember-promo2.jpeg)
+![Sample2](/Samples/movember-promo4.jpeg)
+![Sample3](/Samples/movember_promo3.jpeg)
+![Sample4](/Samples/movember_promo1.jpeg)
+![Sample5](/Samples/movember-promo5.jpeg)
   
