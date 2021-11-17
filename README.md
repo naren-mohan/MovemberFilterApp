@@ -16,7 +16,7 @@ tk==0.1.0
 
 ## Samples
 
-![Sample1](/Samples/movember-promo2.jpeg)
+<img src="/Samples/movember-promo2.jpeg" alt="Sample1" width="30%" height="30%"/>
 ![Sample2](/Samples/movember-promo4.jpeg)
 ![Sample3](/Samples/movember_promo3.jpeg)
 ![Sample4](/Samples/movember_promo1.jpeg)
